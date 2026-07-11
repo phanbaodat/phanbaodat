@@ -11,7 +11,7 @@ I enjoy applying engineering knowledge to develop simulation models, control alg
 ## 🚗 About Me
 
 - 🎓 Third-year Automotive Engineering Technology student at HCMUTE
-- 📚 GPA: **3.37/4.00**
+- 📚 GPA: **3.43/4.00**
 - 🔭 Focused on vehicle modeling, automotive simulation, and control systems
 - 🌱 Currently developing skills in MATLAB/Simulink, CarSim, vehicle dynamics, and electric vehicle control
 - ⚡ Interested in electric vehicles, intelligent vehicle technologies, suspension systems, and model-based design
