@@ -129,7 +129,7 @@ Engineer’s Degree in Automotive Engineering Technology
 
 2023 – Present
 
-GPA: **3.37/4.00**
+GPA: **3.43/4.00**
 
 ---
 
