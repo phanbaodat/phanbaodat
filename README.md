@@ -73,7 +73,7 @@ Developed an energy management strategy for a dual-motor battery electric vehicl
 
 ---
 
-### 🚘 Tesla Model 3 Half-Car Suspension Simulation
+###  Tesla Model 3 Half-Car Suspension Simulation
 
 Modeled and simulated a half-car suspension system for the Tesla Model 3 Standard RWD 2021 to evaluate vehicle body vibration, pitch motion, suspension travel, and ride comfort.
 
