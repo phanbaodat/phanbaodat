@@ -1,4 +1,4 @@
-# Hi, I'm Phan Bao Dat 👋
+# Hi, I'm Phan Bao Dat 
 
 ### Automotive Engineering Technology Student | Vehicle Modeling & Simulation | MATLAB/Simulink | Electric Vehicle Control
 
@@ -8,35 +8,35 @@ I enjoy applying engineering knowledge to develop simulation models, control alg
 
 ---
 
-## 🚗 About Me
+##  About Me
 
-- 🎓 Third-year Automotive Engineering Technology student at HCMUTE
-- 📚 GPA: **3.43/4.00**
-- 🔭 Focused on vehicle modeling, automotive simulation, and control systems
-- 🌱 Currently developing skills in MATLAB/Simulink, CarSim, vehicle dynamics, and electric vehicle control
-- ⚡ Interested in electric vehicles, intelligent vehicle technologies, suspension systems, and model-based design
-- 🎯 Career goal: Automotive Simulation and Control Engineer
+-  Third-year Automotive Engineering Technology student at HCMUTE
+-  GPA: **3.43/4.00**
+-  Focused on vehicle modeling, automotive simulation, and control systems
+-  Currently developing skills in MATLAB/Simulink, CarSim, vehicle dynamics, and electric vehicle control
+-  Interested in electric vehicles, intelligent vehicle technologies, suspension systems, and model-based design
+-  Career goal: Automotive Simulation and Control Engineer
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🎓 Excellent Academic Encouragement Scholarship  
+-  Excellent Academic Encouragement Scholarship  
   Awarded the highest-level academic scholarship for Semester 1, Academic Year 2025–2026.
 
-- 🚘 AutoTech Scholarship Program Recipient  
+-  AutoTech Scholarship Program Recipient  
   Selected as a recipient of the AutoTech Scholarship Program for the Academic Year 2025–2026.
 
-- 🥈 Second Prize – MATLAB–Simulink Student Innovation Challenge 2026  
+-  Second Prize – MATLAB–Simulink Student Innovation Challenge 2026  
   Project: *Energy Management for a Dual-Motor Battery Electric Vehicle Using Model Predictive Control*
 
-- 🥉 Third Prize – Strength of Materials, 35th National Mechanics Olympiad
+-  Third Prize – Strength of Materials, 35th National Mechanics Olympiad
 
-- 🌟 Excellent Student – Semester 1, Academic Year 2025–2026
+-  Excellent Student – Semester 1, Academic Year 2025–2026
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Engineering and Simulation Software
 
@@ -63,9 +63,9 @@ I enjoy applying engineering knowledge to develop simulation models, control alg
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### ⚡ Energy Management for a Dual-Motor Electric Vehicle
+###  Energy Management for a Dual-Motor Electric Vehicle
 
 Developed an energy management strategy for a dual-motor battery electric vehicle using Model Predictive Control in MATLAB/Simulink.
 
@@ -81,7 +81,7 @@ Modeled and simulated a half-car suspension system for the Tesla Model 3 Standar
 
 ---
 
-### 🛞 Automotive Traction Control System
+###  Automotive Traction Control System
 
 Studied and modeled a Traction Control System to analyze wheel slip and vehicle traction under different road adhesion conditions.
 
@@ -89,7 +89,7 @@ Studied and modeled a Traction Control System to analyze wheel slip and vehicle 
 
 ---
 
-### 🤖 Autonomous Vehicle Lane-Following System
+###  Autonomous Vehicle Lane-Following System
 
 Developed an image-processing system using Python and a webcam to identify road lanes and support autonomous vehicle steering control with Arduino.
 
@@ -97,7 +97,7 @@ Developed an image-processing system using Python and a webcam to identify road 
 
 ---
 
-### 🔋 Four-Cell Battery Charging Management System
+###  Four-Cell Battery Charging Management System
 
 Designed a monitoring and protection circuit for a four-cell lithium-ion battery charging system.
 
@@ -105,7 +105,7 @@ Designed a monitoring and protection circuit for a four-cell lithium-ion battery
 
 ---
 
-### ⚙️ ATmega32 DC Motor Control System
+###  ATmega32 DC Motor Control System
 
 Designed and programmed an embedded control system for DC motor direction and speed control using push buttons, ADC, Timer, PWM, and LCD display.
 
@@ -113,7 +113,7 @@ Designed and programmed an embedded control system for DC motor direction and sp
 
 ---
 
-### 🚗 EFI–ECU System Research
+###  EFI–ECU System Research
 
 Studied, analyzed, and developed an EFI–ECU experimental system for the Honda Wave RSX 110 at the Automotive Mechatronics Laboratory.
 
@@ -121,7 +121,7 @@ Studied, analyzed, and developed an EFI–ECU experimental system for the Honda 
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Ho Chi Minh City University of Technology and Education — HCMUTE**
 
@@ -133,7 +133,7 @@ GPA: **3.43/4.00**
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📍 Ho Chi Minh City, Vietnam
 
